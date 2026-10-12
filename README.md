@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Kapil0510/Leet-s-Code/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Kapil0510/Leet-s-Code/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Kapil0510/Leet-s-Code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Kapil0510/Leet-s-Code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Kapil0510/Leet-s-Code/tree/master/0349-intersection-of-two-arrays) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Kapil0510/Leet-s-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kapil0510/Leet-s-Code/tree/master/0350-intersection-of-two-arrays-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Kapil0510/Leet-s-Code/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
