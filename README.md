@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Kapil0510/Leet-s-Code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Kapil0510/Leet-s-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kapil0510/Leet-s-Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kapil0510/Leet-s-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Kapil0510/Leet-s-Code/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Kapil0510/Leet-s-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kapil0510/Leet-s-Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kapil0510/Leet-s-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
 |  |
 | ------- |
@@ -46,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Kapil0510/Leet-s-Code/tree/master/0136-single-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kapil0510/Leet-s-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kapil0510/Leet-s-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
