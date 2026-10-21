@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Kapil0510/Leet-s-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kapil0510/Leet-s-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Kapil0510/Leet-s-Code/tree/master/0485-max-consecutive-ones) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Kapil0510/Leet-s-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kapil0510/Leet-s-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Kapil0510/Leet-s-Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Math
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Kapil0510/Leet-s-Code/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Kapil0510/Leet-s-Code/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Kapil0510/Leet-s-Code/tree/master/0189-rotate-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Kapil0510/Leet-s-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
