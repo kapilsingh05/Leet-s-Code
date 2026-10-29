@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kapil0510/Leet-s-Code/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Kapil0510/Leet-s-Code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kapil0510/Leet-s-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kapil0510/Leet-s-Code/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Kapil0510/Leet-s-Code/tree/master/0036-valid-sudoku) |
@@ -111,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kapil0510/Leet-s-Code/tree/master/0094-binary-tree-inorder-traversal) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Kapil0510/Leet-s-Code/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Kapil0510/Leet-s-Code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
