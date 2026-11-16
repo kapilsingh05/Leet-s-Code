@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Kapil0510/Leet-s-Code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kapil0510/Leet-s-Code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kapil0510/Leet-s-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kapil0510/Leet-s-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Kapil0510/Leet-s-Code/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Kapil0510/Leet-s-Code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Kapil0510/Leet-s-Code/tree/master/0217-contains-duplicate) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kapil0510/Leet-s-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kapil0510/Leet-s-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Stack
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kapil0510/Leet-s-Code/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kapil0510/Leet-s-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
